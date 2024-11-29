@@ -5,3 +5,4 @@ new zone
   new hope
 new light
 new flash
+new rule
