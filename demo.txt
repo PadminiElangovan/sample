@@ -10,4 +10,8 @@ new rule
 =======
 new leaf
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 send from hub
+=======
+send to hub
+>>>>>>> Stashed changes
