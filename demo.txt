@@ -3,3 +3,5 @@ new zone
   new month
   new date
   new hope
+new light
+new flash
