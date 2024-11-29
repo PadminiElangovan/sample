@@ -5,4 +5,8 @@ new zone
   new hope
 new light
 new flash
+<<<<<<< Updated upstream
 new rule
+=======
+new leaf
+>>>>>>> Stashed changes
